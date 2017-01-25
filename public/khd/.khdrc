@@ -1,0 +1,36 @@
+# modifier only binds consist of the sequence mod_pressed -> mod_released
+# and must be performed within a given timeframe.
+# the following specifies the timeout (in seconds) to be used.
+khd mod_trigger_timeout 0.1
+
+# enable prefix mode
+khd mode my_mode prefix on
+
+# specify prefix timeout
+khd mode my_mode timeout 0.75
+
+# activate mode on timeout (defaults to 'default')
+khd mode my_mode restore some_other_mode
+
+# specify color for this mode (kwm compatibility mode)
+khd mode my_mode color 0xAARRGGBB
+
+# Shift Focus
+lalt - up : kwmc window -f north
+lalt - right : kwmc window -f east
+lalt - down : kwmc window -f south
+lalt - left : kwmc window -f west
+
+# Move Window
+lalt + shift - up : kwmc window -m north
+lalt + shift - right : kwmc window -m east
+lalt + shift - down : kwmc window -m south
+lalt + shift - left : kwmc window -m west
+
+
+# ------------------------
+# Compatibility with KWM
+# ------------------------
+
+# set color of focused border to color of active mode
+khd kwm on

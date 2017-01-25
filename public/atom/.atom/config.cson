@@ -1,0 +1,29 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6ce03ab3-2c05-4395-afdb-9bb97492dc8c"
+  "autocomplete-python":
+    useKite: false
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "gruvbox-plus-syntax"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    preferredLineLength: 90
+    showIndentGuide: true
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "59fc2b0b-1df1-4226-0391-76ea6ad3ee38"
+  "git-plus":
+    commits: {}
+    general:
+      analytics: false
+  "gruvbox-plus-syntax":
+    contrast: "Hard"
+  welcome:
+    showOnStartup: false
