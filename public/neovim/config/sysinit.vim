@@ -26,8 +26,7 @@
 "autocmd BufEnter * :syntax sync fromstart
 
 
-" Enables filetype detection, filetype-specific scripts (ftplugins), 
-" and filetype-specific indent scripts.
+" Enables filetype detection, filetype-specific scripts (ftplugins), and filetype-specific indent scripts.
 filetype indent plugin on
 
 syntax on                               " Turns on syntax highlighting
@@ -86,12 +85,12 @@ inoremap <right> <nop>
 let $NVIM_TUI_ENABLE_CURSOR_SHAPE=1	
 
 " Colors and Theme Options
-set termguicolors			" Enables "True Color" support
+set termguicolors			" Enables 'True Color' support
 silent! colorscheme gruvbox             " Sets the color scheme, if present
 set background=dark			" Sets the default background to dark mode
 let g:gruvbox_contrast_dark="hard"	" Changes dark mode contrasts. Possible values are soft, medium, and hard. Default is medium
 let g:gruvbox_contrast_light="hard"	" Changes light mode contrasts. Possible values are soft, medium, and hard. Default is medium
-let g:gruvbox_italicize_comments=1 	" Enables italics for comments
+let g:gruvbox_italicize_comments= 1	" Enables italics for comments
 let g:gruvbox_italicize_strings=1	" Enables italics for strings
 
 " CtrlP settings
@@ -103,7 +102,7 @@ let g:gruvbox_italicize_strings=1	" Enables italics for strings
 
 
 " change the working directory to the current file's directory
-"command! -nargs=0 CD exec 'cd' expand('%:h')
+command! -nargs=0 CD exec 'cd' expand('%:h')
 
 
 " Tells only this file to use manually set fold markers and close all markers

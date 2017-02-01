@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
+        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
-        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
+        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
+        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117010-8194-tvi1lf"
+      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32312-fdjo1t"
     ]
   ],
-  "_from": "../d-117010-8194-1mundrk/package.tgz",
-  "_id": "script@3.14.0",
+  "_from": "../d-117028-32312-d5qsh5/package.tgz",
+  "_id": "script@3.14.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/script",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
+    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
-    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
+    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
+    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117010-8194-1mundrk/package.tgz",
-  "_shasum": "2f11ad7d4fc0895dfb0281a9494f5fab5f7617df",
+  "_resolved": "file:../d-117028-32312-d5qsh5/package.tgz",
+  "_shasum": "4e6a764bced2b6f1a9cc7f59fb07d43e3ef396df",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117010-8194-1mundrk/package.tgz",
-  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117010-8194-tvi1lf",
+  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32312-d5qsh5/package.tgz",
+  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32312-fdjo1t",
   "activationCommands": {
     "atom-text-editor": [
       "script:run",
@@ -327,7 +327,7 @@
   ],
   "dependencies": {
     "ansi-to-html": "^0.4.2",
-    "atom-message-panel": "^1.2.7",
+    "atom-message-panel": "1.2.7",
     "atom-space-pen-views": "^2.0.3",
     "strip-ansi": "^3.0.0",
     "underscore": "^1.8.3",
@@ -411,5 +411,5 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "version": "3.14.0"
+  "version": "3.14.1"
 }

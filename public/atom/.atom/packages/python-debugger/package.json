@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
+        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
-        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
+        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
+        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-11709-13877-fwyctn"
+      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32307-10aqz64"
     ]
   ],
-  "_from": "../d-11709-13877-1yur56k/package.tgz",
-  "_id": "python-debugger@0.1.0",
+  "_from": "../d-117028-32307-11shjpn/package.tgz",
+  "_id": "python-debugger@0.2.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/python-debugger",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
+    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
-    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
+    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
+    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-11709-13877-1yur56k/package.tgz",
-  "_shasum": "19304627ce87cc6b1dbddc44d8df1bd0e6a2eeca",
+  "_resolved": "file:../d-117028-32307-11shjpn/package.tgz",
+  "_shasum": "bdc8134319c380761a3224a955ef1f69a86b2518",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-11709-13877-1yur56k/package.tgz",
-  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-11709-13877-fwyctn",
+  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32307-11shjpn/package.tgz",
+  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32307-10aqz64",
   "activationCommands": {
     "atom-workspace": [
       "python-debugger:toggle",
@@ -73,5 +73,5 @@
     "type": "git",
     "url": "git+https://github.com/dpo/atom-python-debugger.git"
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

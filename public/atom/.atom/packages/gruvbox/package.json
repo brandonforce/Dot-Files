@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
+        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
-        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
+        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
+        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117018-94637-2151bs"
+      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32288-3w80m2"
     ]
   ],
-  "_from": "../d-117018-94637-bhezoc/package.tgz",
-  "_id": "gruvbox@1.0.5",
+  "_from": "../d-117028-32288-2mv97s/package.tgz",
+  "_id": "gruvbox@1.0.7",
   "_inCache": true,
   "_installable": true,
   "_location": "/gruvbox",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
+    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
-    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
+    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
+    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117018-94637-bhezoc/package.tgz",
-  "_shasum": "28a18460f21648cba25098fb5ab0e6639b5cff10",
+  "_resolved": "file:../d-117028-32288-2mv97s/package.tgz",
+  "_shasum": "ac7ba1b09656b19e86839a432fea3f5d7f58adc5",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-94637-bhezoc/package.tgz",
-  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117018-94637-2151bs",
+  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32288-2mv97s/package.tgz",
+  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32288-3w80m2",
   "bugs": {
     "url": "https://github.com/caleb/gruvbox-syntax-atom/issues"
   },
@@ -62,5 +62,5 @@
     "url": "git+https://github.com/caleb/gruvbox-syntax-atom.git"
   },
   "theme": "syntax",
-  "version": "1.0.5"
+  "version": "1.0.7"
 }

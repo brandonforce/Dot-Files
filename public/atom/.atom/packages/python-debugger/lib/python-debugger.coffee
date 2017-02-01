@@ -1,4 +1,5 @@
 {CompositeDisposable} = require "atom"
+path = require "path"
 Breakpoint = require "./breakpoint"
 BreakpointStore = require "./breakpoint-store"
 
@@ -41,8 +42,8 @@ module.exports = PythonDebugger =
     @pythonDebuggerView.destroy()
 
   serialize: ->
-    pythonDebuggerViewState: @pythonDebuggerView.serialize()
+    pythonDebuggerViewState: @pythonDebuggerView?.serialize()
 
     activePath = editor?.getPath()
     relative = atom.project.relativizePath(activePath)
-    themPaths = relative[0] || path.dirname(activePath)
+    themPaths = relative[0] || (path.dirname(activePath) if activePath?)

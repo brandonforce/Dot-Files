@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
+        "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
-        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
+        "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
+        "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117018-96360-1qrl85p"
+      "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32283-1qzdtys"
     ]
   ],
-  "_from": "../d-117018-96360-a3n90a/package.tgz",
-  "_id": "git-plus@7.1.1",
+  "_from": "../d-117028-32283-1fehuse/package.tgz",
+  "_id": "git-plus@7.2.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/git-plus",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
+    "raw": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
-    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
+    "rawSpec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
+    "spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117018-96360-a3n90a/package.tgz",
-  "_shasum": "1469703e5c03003ca2dcc27d40739a04f721e6a7",
+  "_resolved": "file:../d-117028-32283-1fehuse/package.tgz",
+  "_shasum": "3a3d0e22508c17f2afa1baa3ad23db4d450eb042",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117018-96360-a3n90a/package.tgz",
-  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117018-96360-1qrl85p",
+  "_spec": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/d-117028-32283-1fehuse/package.tgz",
+  "_where": "/private/var/folders/t2/2b9ky8411pz18p8b3k9yt41r0000gn/T/apm-install-dir-117028-32283-1qzdtys",
   "bugs": {
     "url": "https://github.com/akonwi/git-plus/issues"
   },
@@ -91,5 +91,5 @@
     "type": "git",
     "url": "git+https://github.com/akonwi/git-plus.git"
   },
-  "version": "7.1.1"
+  "version": "7.2.0"
 }

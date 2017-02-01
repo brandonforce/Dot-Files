@@ -25,5 +25,7 @@
       analytics: false
   "gruvbox-plus-syntax":
     contrast: "Hard"
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
